@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Showkali",
+    "artist": "Aditya Rao, Aaryan Dinesh Kanagaratnam, Sri Rascol",
+    "src": "/music/Showkali.mp3",
+    "image": "/images/showkali.jpg",
+    "colors": [
+      "#86806d",
+      "#4f2e1e"
+    ]
+  },
+  {
+    "title": "Adiye Sakkarakatti",
+    "artist": "Hiphop Tamizha, Sudarshan Ashok",
+    "src": "/music/adiye-sakkarakatti.mp3",
+    "image": "/images/Adiye_sakkarakatti.jpg",
+    "colors": [
+      "#f4cfb3",
+      "#ccbdaf"
+    ]
+  },
+  {
+    "title": "Avalum Naanum",
+    "artist": "Vijay Yesudas",
+    "src": "/music/avalum-naanum.mp3",
+    "image": "/images/Avalum-Naanum.jpg",
+    "colors": [
+      "#776d3f",
+      "#ecd9c7"
+    ]
+  },
+  {
+    "title": "Enakenna Yaarum Illaye",
+    "artist": "Anirudh Ravichander",
+    "src": "/music/enakenna-yaarum-illaye.mp3",
+    "image": "/images/Eankenna_Yarum_illa.jpg",
+    "colors": [
+      "#8a8178",
+      "#4a443e"
+    ]
+  },
+  {
+    "title": "Enna Nadanthalum",
+    "artist": "Hiphop Tamizha, Kaushik Krish",
+    "src": "/music/Enna-Nadanthalum.mp3",
+    "image": "/images/ena_nadanthalum.jpg",
+    "colors": [
+      "#8a8178",
+      "#4a443e"
+    ]
+  },
+  {
+    "title": "Hi Sonna Pothum",
+    "artist": "Kaushik Krish, Hiphop Tamizha",
+    "src": "/music/hi-sonna-pothum.mp3",
+    "image": "/images/Hi_sonna_pothum.jpg",
+    "colors": [
+      "#fde457",
+      "#44321b"
+    ]
+  },
+  {
+    "title": "Kalakkalu Mr. Localu",
+    "artist": "Sivakarthikeyan",
+    "src": "/music/kalakkalu.mp3",
+    "image": "/images/kalakkulu.jpg",
+    "colors": [
+      "#23677e",
+      "#e9e8ca"
+    ]
+  },
+  {
+    "title": "Maattikkichey Maattikkichey",
+    "artist": "Hiphop Tamizha, V.M. Mahalingam",
+    "src": "/music/maattikkichey.mp3",
+    "image": "/images/maatikichu.jpg",
+    "colors": [
+      "#a6e3e1",
+      "#5e848e"
+    ]
+  },
+  {
+    "title": "Machi Engalukku Ellam",
+    "artist": "Hiphop Tamizha",
+    "src": "/music/machi-engalukku-ellam.mp3",
+    "image": "/images/machi_engaluku.jpg",
+    "colors": [
+      "#4083a4",
+      "#e7c4ad"
+    ]
+  },
+  {
+    "title": "Mazhai Kuruvi",
+    "artist": "A.R.Rahman",
+    "src": "/music/mazhai-kuruvi.mp3",
+    "image": "/images/Mazhai_kuruvi.jpg",
+    "colors": [
+      "#37140c",
+      "#faf8d5"
+    ]
+  },
+  {
+    "title": "Mobsta",
+    "artist": "Anirudh Ravichander",
+    "src": "/music/Mobsta.mp3",
+    "image": "/images/Mobsta.jpg",
+    "colors": [
+      "#a00203",
+      "#ac5e5f"
+    ]
+  },
+  {
+    "title": "Naan Un",
+    "artist": "Arijit Singh, Chinmayi",
+    "src": "/music/Naan-Un.mp3",
+    "image": "/images/Naan_unjpg.jpg",
+    "colors": [
+      "#a76e4c",
+      "#a6bec0"
+    ]
+  },
+  {
+    "title": "Nallaru Po",
+    "artist": "Sai Abhyankkar, Tippu, Mohit Chauhan",
+    "src": "/music/Nallaru Po.mp3",
+    "image": "/images/Nallaru_po.jpg",
+    "colors": [
+      "#95beb8",
+      "#b09781"
+    ]
+  },
+  {
+    "title": "Nanba Nanba",
+    "artist": "Sanjith Hegde, Hiphop Tamizha",
+    "src": "/music/Nanba.mp3",
+    "image": "/images/Nanba.jpg",
+    "colors": [
+      "#8a8178",
+      "#4a443e"
+    ]
+  },
+  {
+    "title": "Oorum Blood",
+    "artist": "Sai Abhyankkar, Bebhumika, Deepthi Suresh",
+    "src": "/music/Oorum Blood.mp3",
+    "image": "/images/Oorum_blood.jpg",
+    "colors": [
+      "#a07f60",
+      "#e6dfbe"
+    ]
+  },
+  {
+    "title": "Paisa Note",
+    "artist": "Hiphop Tamizha",
+    "src": "/music/paisa-note.mp3",
+    "image": "/images/paisa_note.jpg",
+    "colors": [
+      "#7b3c1d",
+      "#e2cd9a"
+    ]
+  },
+  {
+    "title": "Pavazha Malli",
+    "artist": "Sai Abhyankkar, Shruti Haasan",
+    "src": "/music/Pavazha Malli.mp3",
+    "image": "/images/pavazha_malli.jpg",
+    "colors": [
+      "#b88956",
+      "#63392d"
+    ]
+  },
+  {
+    "title": "Powerhouse",
+    "artist": "Anirudh Ravichander, Arivu",
+    "src": "/music/Powerhouse.mp3",
+    "image": "/images/Powerhouse.jpg",
+    "colors": [
+      "#8a8178",
+      "#4a443e"
+    ]
+  },
+  {
+    "title": "Rasaali",
+    "artist": "Sathya Prakash, Shasha Tirupati",
+    "src": "/music/Rasaali.mp3",
+    "image": "/images/rassali.jpg",
+    "colors": [
+      "#7da57d",
+      "#e5f6c0"
+    ]
+  },
+  {
+    "title": "Saitji Saitji",
+    "artist": "Hiphop Tamizha",
+    "src": "/music/saitji.mp3",
+    "image": "/images/Saitji.jpg",
+    "colors": [
+      "#623536",
+      "#af8381"
+    ]
+  },
+  {
+    "title": "Vaadi Nee Vaadi",
+    "artist": "Hiphop Tamizha, Rajan Chelliah",
+    "src": "/music/Vaadi-Nee-Vaadi.mp3",
+    "image": "/images/vaadi_pulla_vaadi.jpg",
+    "colors": [
+      "#a8a9d5",
+      "#4c2d3d"
+    ]
+  },
+  {
+    "title": "Singari",
+    "artist": "Sai Abhyankkar, Pradeep Ranganathan, Sai Smriti",
+    "src": "/music/Singari.mp3",
+    "image": "/images/Singari.jpg",
+    "colors": [
+      "#8b6b66",
+      "#97e0d1"
+    ]
+  },
+  {
+    "title": "Takkunu Takkunu",
+    "artist": "Anirudh Ravichander",
+    "src": "/music/Takkunu.mp3",
+    "image": "/images/Takkunu.jpg",
+    "colors": [
+      "#6b4336",
+      "#eeea5e"
+    ]
+  },
+  {
+    "title": "Thalli Pogathey",
+    "artist": "Sid Sriram, Aaryan Dinesh Kanagaratnam, Aparna Narayanan",
+    "src": "/music/Thalli-Pogathey.mp3",
+    "image": "/images/Thali_pogathe.jpg",
+    "colors": [
+      "#93bac4",
+      "#662c30"
+    ]
+  }
+]

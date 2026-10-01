@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+html, body, #root { height: 100%; margin: 0; background: #000; }
+
+* { scrollbar-width: thin; scrollbar-color: transparent transparent; }
+*:hover { scrollbar-color: #5a5a5a transparent; }
+
+/* Seek and volume sliders: white track that turns green on hover */
+.range { -webkit-appearance: none; appearance: none; height: 4px; border-radius: 999px; cursor: pointer;
+  background: linear-gradient(to right, var(--c, #fff) var(--fill), #4d4d4d var(--fill)); }
+.range::-webkit-slider-thumb { -webkit-appearance: none; width: 12px; height: 12px; border-radius: 50%; background: #fff; opacity: 0; }
+.range::-moz-range-thumb { width: 12px; height: 12px; border: 0; border-radius: 50%; background: #fff; opacity: 0; }
+.group:hover .range { --c: #1ed760; }
+.group:hover .range::-webkit-slider-thumb, .group:hover .range::-moz-range-thumb { opacity: 1; }
+
+.bar { height: 100%; transform-origin: bottom; animation: eq 0.9s ease-in-out infinite; }
+@keyframes eq { 0%, 100% { transform: scaleY(0.25); } 50% { transform: scaleY(1); } }
+
+button:focus-visible, .range:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { .bar { animation: none; } }
