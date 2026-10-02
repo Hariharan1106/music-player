@@ -238,5 +238,55 @@
       "#93bac4",
       "#662c30"
     ]
+  },
+  {
+    "title": "Maanipaaya",
+    "artist": "A. R. Rahman",
+    "src": "/music/Mannipaaya.mp3",
+    "image": "/images/mannipaaya.jpg",
+    "colors": [
+      "#6b4336",
+      "#eeea5e"
+    ]
+  },
+  {
+    "title": "Hosanna",
+    "artist": "A.R. Rahman",
+    "src": "/music/Hosanna.mp3",
+    "image": "/images/hossana.jpg",
+    "colors": [
+      "#93bac4",
+      "#662c30"
+    ]
+  },
+  {
+    "title": "Anbil Avan",
+    "artist": "A.R. Rahman",
+    "src": "/music/Anbil Avan.mp3",
+    "image": "/images/anbil-avan.jpg",
+    "colors": [
+      "#8a8178",
+      "#4a443e"
+    ]
+  },
+   {
+    "title": "Kannukul Ennai",
+    "artist": "A.R. Rahman",
+    "src": "/music/Kannukkul Kannai.mp3",
+    "image": "/images/kannukkul.jpg",
+    "colors": [
+      "#93bac4",
+      "#662c30"
+    ]
+  },
+  {
+    "title": "Omana Penne",
+    "artist": "A.R. Rahman",
+    "src": "/music/Omana Penne.mp3",
+    "image": "/images/omane-penne.jpg",
+    "colors": [
+      "#8a8178",
+      "#4a443e"
+    ]
   }
 ]
