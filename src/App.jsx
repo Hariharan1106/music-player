@@ -506,29 +506,27 @@ export default function App() {
                       className="absolute bottom-2 right-2 translate-y-2 opacity-0 transition group-hover:translate-y-0 group-hover:opacity-100"
                     />
 
-                    <button
-                      type="button"
-                      aria-label={
-                        isLiked(t)
-                          ? `Unlike ${t.title}`
-                          : `Like ${t.title}`
-                      }
-                      aria-pressed={isLiked(t)}
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        toggleLike(t);
-                      }}
-                      className={`absolute left-2 top-2 rounded-full bg-black/70 p-2 transition ${
-                        isLiked(t)
-                          ? "text-[#1ed760]"
-                          : "text-white opacity-0 group-hover:opacity-100"
-                      }`}
-                    >
-                      <Heart
-                        size={18}
-                        fill={isLiked(t) ? "currentColor" : "none"}
-                      />
-                    </button>
+   
+<button
+  type="button"
+  aria-label={isLiked(t) ? `Unlike ${t.title}` : `Like ${t.title}`}
+  aria-pressed={isLiked(t)}
+  onClick={(e) => {
+    e.stopPropagation();
+    toggleLike(t);
+  }}
+  className={`absolute left-2 top-2 rounded-full bg-black/70 p-2 transition ${
+    isLiked(t)
+      ? "text-[#1ed760] opacity-100"
+      : "text-white opacity-100 sm:opacity-0 sm:group-hover:opacity-100"
+  }`}
+>
+  <Heart
+    size={18}
+    fill={isLiked(t) ? "currentColor" : "none"}
+  />
+</button>
+
                   </div>
 
                   <p className="mt-3 truncate font-bold">{t.title}</p>
@@ -642,7 +640,7 @@ export default function App() {
               isLiked(track) ? "Unlike song" : "Like song"
             }
             aria-pressed={isLiked(track)}
-            className={`hidden sm:block ${iconBtn(isLiked(track))}`}
+            className={`shrink-0 ${iconBtn(isLiked(track))}`}
           >
             <Heart
               size={18}
